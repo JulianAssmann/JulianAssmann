@@ -6,7 +6,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🎓 Pursuing my master's in Computer Science from the [Karlsruhe University of Applied Sciences](https://en.wikipedia.org/wiki/Karlsruhe_University_of_Applied_Sciences), majoring in Machine Learning  
 &nbsp;&nbsp;&nbsp;&nbsp;🤖 Deeply passionate about Machine Learning and actively exploring its intricacies   
 &nbsp;&nbsp;&nbsp;&nbsp;📹 Crafting educational videos on computer science topics, but only in German for now!  
-&nbsp;&nbsp;&nbsp;&nbsp;🌟 Occasionally diving into open source projects and making my contribution 
+&nbsp;&nbsp;&nbsp;&nbsp;🌟 Occasionally diving into open source projects and making my contribution  
+&nbsp;&nbsp;&nbsp;&nbsp;🏆 Recipient of the [Germany Scholarship (Deutschlandstipendium)](https://www.deutschlandstipendium.de/startseite.html) 
 
 🔗 **Connect with me on**:  
 &nbsp;&nbsp;&nbsp;&nbsp;🎬 [YouTube](https://www.youtube.com/channel/UCPOv6aROWBSxBNXXTDIHf2w)  
